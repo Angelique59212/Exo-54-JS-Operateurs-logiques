@@ -19,4 +19,5 @@ Affichez à chaque fois dans un paragraphe, le résultat du test ( ex: a est plu
 
 ## Théorie
 
--Lorsque vous avez récupéré un élément, vous pouvez ajouter du texte au texte existant plutôt que de le remplacer, utiliser simplement l'opérateur += et le innerHTML que vous commencez tout doucement à connaître !
+-Lorsque vous avez récupéré un élément, vous pouvez ajouter du texte au texte existant plutôt que de le remplacer, 
+utiliser simplement l'opérateur += et le innerHTML que vous commencez tout doucement à connaître !
